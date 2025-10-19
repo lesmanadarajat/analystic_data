@@ -1,0 +1,501 @@
+Order_ID,Customer_Name,City,Product,Category,Quantity,Price,Total_Sales,Order_Date
+ORD0001,Oki,Medan,Pudding Coklat,Dessert,5,20000,100000,2024-01-19
+ORD0002,Fani,Makassar,Keripik Kentang,Snack,3,15000,45000,2025-06-04
+ORD0003,Citra,Palembang,Roti Bakar,Snack,2,17000,34000,2024-12-29
+ORD0004,Budi,Balikpapan,Donat,Snack,3,10000,30000,2024-03-16
+ORD0005,Budi,Semarang,Bakso,Makanan,2,22000,44000,2023-08-06
+ORD0006,Vina,Surabaya,Ayam Geprek,Makanan,2,20000,40000,2024-07-17
+ORD0007,Dewi,Yogyakarta,Es Jeruk,Minuman,1,10000,10000,2024-08-18
+ORD0008,Oki,Jakarta,Teh Manis,Minuman,1,8000,8000,2023-09-13
+ORD0009,Budi,Surabaya,Keripik Kentang,Snack,4,15000,60000,2024-04-11
+ORD0010,Sinta,Denpasar,Roti Bakar,Snack,3,17000,51000,2024-07-27
+ORD0011,Dewi,Yogyakarta,Jus Alpukat,Minuman,5,15000,75000,2023-08-27
+ORD0012,Indra,Surabaya,Teh Manis,Minuman,2,8000,16000,2024-09-20
+ORD0013,Dewi,Makassar,Jus Alpukat,Minuman,1,15000,15000,2023-04-11
+ORD0014,Oki,Bandung,Pudding Coklat,Dessert,2,20000,40000,2023-08-12
+ORD0015,Dewi,Semarang,Bakso,Makanan,3,22000,66000,2025-03-29
+ORD0016,Hana,Makassar,Donat,Snack,1,10000,10000,2025-11-16
+ORD0017,Mira,Jakarta,Roti Bakar,Snack,5,17000,85000,2023-04-08
+ORD0018,Gilang,Surabaya,Pudding Coklat,Dessert,3,20000,60000,2025-04-17
+ORD0019,Kiki,Semarang,Mie Ayam,Makanan,3,18000,54000,2025-12-19
+ORD0020,Dewi,Surabaya,Es Krim,Dessert,4,18000,72000,2023-04-27
+ORD0021,Fani,Palembang,Ayam Geprek,Makanan,3,20000,60000,2025-08-16
+ORD0022,Citra,Palembang,Es Jeruk,Minuman,5,10000,50000,2025-08-18
+ORD0023,Rudi,Denpasar,Mie Ayam,Makanan,5,18000,90000,2024-06-19
+ORD0024,Dewi,Semarang,Sate Ayam,Makanan,1,27000,27000,2025-04-17
+ORD0025,Indra,Jakarta,Bakso,Makanan,1,22000,22000,2023-08-19
+ORD0026,Gilang,Balikpapan,Donat,Snack,1,10000,10000,2024-03-21
+ORD0027,Budi,Makassar,Pudding Coklat,Dessert,5,20000,100000,2023-03-11
+ORD0028,Indra,Denpasar,Air Mineral,Minuman,3,5000,15000,2023-04-27
+ORD0029,Gilang,Jakarta,Sate Ayam,Makanan,4,27000,108000,2023-12-01
+ORD0030,Vina,Jakarta,Bakso,Makanan,5,22000,110000,2024-05-04
+ORD0031,Tono,Jakarta,Bakso,Makanan,1,22000,22000,2023-11-06
+ORD0032,Gilang,Palembang,Nasi Goreng,Makanan,5,25000,125000,2023-05-30
+ORD0033,Budi,Denpasar,Sate Ayam,Makanan,2,27000,54000,2024-04-10
+ORD0034,Nanda,Yogyakarta,Ayam Geprek,Makanan,2,20000,40000,2024-12-30
+ORD0035,Mira,Semarang,Sate Ayam,Makanan,1,27000,27000,2025-04-24
+ORD0036,Joko,Yogyakarta,Donat,Snack,1,10000,10000,2023-05-31
+ORD0037,Eka,Yogyakarta,Ayam Geprek,Makanan,3,20000,60000,2024-12-14
+ORD0038,Kiki,Makassar,Pudding Coklat,Dessert,1,20000,20000,2024-10-23
+ORD0039,Tono,Bandung,Roti Bakar,Snack,2,17000,34000,2025-08-26
+ORD0040,Gilang,Denpasar,Sate Ayam,Makanan,3,27000,81000,2025-06-29
+ORD0041,Tono,Medan,Sate Ayam,Makanan,2,27000,54000,2025-09-30
+ORD0042,Oki,Balikpapan,Pudding Coklat,Dessert,4,20000,80000,2023-12-25
+ORD0043,Indra,Surabaya,Teh Manis,Minuman,3,8000,24000,2024-02-20
+ORD0044,Joko,Jakarta,Keripik Kentang,Snack,3,15000,45000,2023-09-04
+ORD0045,Dewi,Semarang,Es Jeruk,Minuman,2,10000,20000,2023-12-14
+ORD0046,Mira,Makassar,Es Jeruk,Minuman,1,10000,10000,2024-10-20
+ORD0047,Putri,Surabaya,Keripik Kentang,Snack,3,15000,45000,2024-10-23
+ORD0048,Fani,Makassar,Kopi Hitam,Minuman,1,12000,12000,2024-07-18
+ORD0049,Rudi,Yogyakarta,Kopi Hitam,Minuman,3,12000,36000,2025-03-19
+ORD0050,Eka,Makassar,Sate Ayam,Makanan,1,27000,27000,2024-11-06
+ORD0051,Citra,Surabaya,Es Krim,Dessert,4,18000,72000,2023-09-26
+ORD0052,Lina,Medan,Bakso,Makanan,2,22000,44000,2024-09-04
+ORD0053,Dewi,Balikpapan,Es Jeruk,Minuman,3,10000,30000,2025-02-01
+ORD0054,Citra,Jakarta,Teh Manis,Minuman,4,8000,32000,2024-02-01
+ORD0055,Gilang,Palembang,Teh Manis,Minuman,1,8000,8000,2023-10-26
+ORD0056,Dewi,Balikpapan,Teh Manis,Minuman,2,8000,16000,2023-01-25
+ORD0057,Budi,Palembang,Keripik Kentang,Snack,5,15000,75000,2024-12-16
+ORD0058,Indra,Jakarta,Sate Ayam,Makanan,4,27000,108000,2025-08-16
+ORD0059,Indra,Semarang,Donat,Snack,4,10000,40000,2024-03-25
+ORD0060,Mira,Balikpapan,Kopi Hitam,Minuman,3,12000,36000,2024-10-27
+ORD0061,Rudi,Denpasar,Keripik Kentang,Snack,4,15000,60000,2024-05-22
+ORD0062,Andi,Makassar,Es Jeruk,Minuman,4,10000,40000,2024-05-22
+ORD0063,Dewi,Bandung,Roti Bakar,Snack,5,17000,85000,2024-07-23
+ORD0064,Indra,Semarang,Sate Ayam,Makanan,3,27000,81000,2025-09-16
+ORD0065,Andi,Yogyakarta,Jus Alpukat,Minuman,4,15000,60000,2023-09-15
+ORD0066,Nanda,Denpasar,Jus Alpukat,Minuman,3,15000,45000,2025-10-08
+ORD0067,Fani,Balikpapan,Es Krim,Dessert,5,18000,90000,2023-05-27
+ORD0068,Vina,Semarang,Ayam Geprek,Makanan,5,20000,100000,2025-10-02
+ORD0069,Mira,Yogyakarta,Keripik Kentang,Snack,2,15000,30000,2025-07-30
+ORD0070,Joko,Palembang,Roti Bakar,Snack,1,17000,17000,2024-03-24
+ORD0071,Eka,Balikpapan,Teh Manis,Minuman,2,8000,16000,2023-03-17
+ORD0072,Fani,Medan,Jus Alpukat,Minuman,2,15000,30000,2023-02-10
+ORD0073,Fani,Balikpapan,Kopi Hitam,Minuman,3,12000,36000,2025-08-02
+ORD0074,Kiki,Bandung,Ayam Geprek,Makanan,2,20000,40000,2025-08-13
+ORD0075,Joko,Bandung,Nasi Goreng,Makanan,4,25000,100000,2023-05-18
+ORD0076,Rudi,Semarang,Air Mineral,Minuman,4,5000,20000,2023-04-02
+ORD0077,Lina,Makassar,Sate Ayam,Makanan,1,27000,27000,2023-05-06
+ORD0078,Indra,Balikpapan,Keripik Kentang,Snack,2,15000,30000,2025-08-05
+ORD0079,Vina,Surabaya,Roti Bakar,Snack,3,17000,51000,2023-11-29
+ORD0080,Lina,Palembang,Mie Ayam,Makanan,2,18000,36000,2025-02-08
+ORD0081,Fani,Bandung,Pudding Coklat,Dessert,2,20000,40000,2025-10-09
+ORD0082,Eka,Semarang,Nasi Goreng,Makanan,1,25000,25000,2025-11-27
+ORD0083,Lina,Denpasar,Sate Ayam,Makanan,3,27000,81000,2024-05-17
+ORD0084,Rudi,Balikpapan,Ayam Geprek,Makanan,5,20000,100000,2024-07-02
+ORD0085,Putri,Denpasar,Jus Alpukat,Minuman,5,15000,75000,2023-07-10
+ORD0086,Dewi,Bandung,Ayam Geprek,Makanan,5,20000,100000,2023-02-10
+ORD0087,Andi,Semarang,Jus Alpukat,Minuman,5,15000,75000,2023-03-13
+ORD0088,Fani,Palembang,Air Mineral,Minuman,4,5000,20000,2023-05-16
+ORD0089,Mira,Jakarta,Donat,Snack,1,10000,10000,2024-09-14
+ORD0090,Hana,Medan,Ayam Geprek,Makanan,2,20000,40000,2024-01-07
+ORD0091,Nanda,Denpasar,Es Krim,Dessert,5,18000,90000,2024-03-09
+ORD0092,Dewi,Palembang,Roti Bakar,Snack,2,17000,34000,2023-08-11
+ORD0093,Indra,Makassar,Roti Bakar,Snack,4,17000,68000,2023-09-16
+ORD0094,Indra,Makassar,Air Mineral,Minuman,5,5000,25000,2024-06-12
+ORD0095,Hana,Yogyakarta,Kopi Hitam,Minuman,5,12000,60000,2023-10-22
+ORD0096,Joko,Medan,Donat,Snack,4,10000,40000,2024-11-01
+ORD0097,Nanda,Bandung,Teh Manis,Minuman,3,8000,24000,2023-03-23
+ORD0098,Indra,Surabaya,Es Jeruk,Minuman,5,10000,50000,2025-04-12
+ORD0099,Joko,Jakarta,Ayam Geprek,Makanan,3,20000,60000,2023-02-22
+ORD0100,Budi,Balikpapan,Air Mineral,Minuman,2,5000,10000,2024-05-04
+ORD0101,Lina,Surabaya,Bakso,Makanan,5,22000,110000,2025-08-11
+ORD0102,Andi,Denpasar,Ayam Geprek,Makanan,2,20000,40000,2023-11-14
+ORD0103,Vina,Bandung,Kopi Hitam,Minuman,2,12000,24000,2023-09-18
+ORD0104,Rudi,Denpasar,Donat,Snack,5,10000,50000,2025-01-31
+ORD0105,Hana,Bandung,Air Mineral,Minuman,1,5000,5000,2023-07-23
+ORD0106,Gilang,Palembang,Teh Manis,Minuman,4,8000,32000,2023-02-26
+ORD0107,Mira,Makassar,Jus Alpukat,Minuman,1,15000,15000,2025-02-12
+ORD0108,Nanda,Balikpapan,Roti Bakar,Snack,4,17000,68000,2024-03-03
+ORD0109,Putri,Balikpapan,Donat,Snack,5,10000,50000,2024-01-15
+ORD0110,Fani,Makassar,Nasi Goreng,Makanan,3,25000,75000,2024-06-19
+ORD0111,Tono,Jakarta,Roti Bakar,Snack,4,17000,68000,2023-02-05
+ORD0112,Lina,Makassar,Ayam Geprek,Makanan,2,20000,40000,2023-01-02
+ORD0113,Rudi,Palembang,Teh Manis,Minuman,5,8000,40000,2025-09-08
+ORD0114,Nanda,Denpasar,Kopi Hitam,Minuman,2,12000,24000,2024-03-22
+ORD0115,Budi,Balikpapan,Mie Ayam,Makanan,5,18000,90000,2024-11-18
+ORD0116,Sinta,Palembang,Ayam Geprek,Makanan,4,20000,80000,2023-02-25
+ORD0117,Dewi,Balikpapan,Roti Bakar,Snack,2,17000,34000,2023-10-17
+ORD0118,Eka,Denpasar,Nasi Goreng,Makanan,2,25000,50000,2023-01-20
+ORD0119,Hana,Jakarta,Ayam Geprek,Makanan,4,20000,80000,2025-04-21
+ORD0120,Mira,Balikpapan,Air Mineral,Minuman,4,5000,20000,2025-10-11
+ORD0121,Eka,Semarang,Pudding Coklat,Dessert,4,20000,80000,2025-06-03
+ORD0122,Kiki,Makassar,Teh Manis,Minuman,5,8000,40000,2023-10-30
+ORD0123,Hana,Semarang,Jus Alpukat,Minuman,4,15000,60000,2023-12-09
+ORD0124,Andi,Medan,Ayam Geprek,Makanan,2,20000,40000,2023-06-10
+ORD0125,Kiki,Yogyakarta,Keripik Kentang,Snack,4,15000,60000,2025-04-25
+ORD0126,Kiki,Semarang,Mie Ayam,Makanan,2,18000,36000,2025-11-16
+ORD0127,Lina,Makassar,Es Krim,Dessert,2,18000,36000,2023-05-10
+ORD0128,Gilang,Makassar,Mie Ayam,Makanan,1,18000,18000,2025-11-08
+ORD0129,Tono,Balikpapan,Es Krim,Dessert,2,18000,36000,2024-08-10
+ORD0130,Oki,Medan,Es Jeruk,Minuman,4,10000,40000,2024-06-26
+ORD0131,Budi,Makassar,Es Jeruk,Minuman,1,10000,10000,2023-05-18
+ORD0132,Sinta,Denpasar,Air Mineral,Minuman,2,5000,10000,2024-11-15
+ORD0133,Fani,Makassar,Jus Alpukat,Minuman,1,15000,15000,2025-06-10
+ORD0134,Budi,Jakarta,Es Krim,Dessert,1,18000,18000,2024-01-23
+ORD0135,Rudi,Bandung,Air Mineral,Minuman,5,5000,25000,2023-06-20
+ORD0136,Gilang,Jakarta,Jus Alpukat,Minuman,4,15000,60000,2023-02-03
+ORD0137,Dewi,Medan,Pudding Coklat,Dessert,3,20000,60000,2024-10-07
+ORD0138,Kiki,Makassar,Donat,Snack,4,10000,40000,2024-09-09
+ORD0139,Andi,Denpasar,Es Jeruk,Minuman,1,10000,10000,2025-01-03
+ORD0140,Nanda,Balikpapan,Keripik Kentang,Snack,3,15000,45000,2023-06-30
+ORD0141,Joko,Semarang,Teh Manis,Minuman,5,8000,40000,2024-09-22
+ORD0142,Nanda,Balikpapan,Mie Ayam,Makanan,3,18000,54000,2024-12-12
+ORD0143,Sinta,Jakarta,Keripik Kentang,Snack,4,15000,60000,2025-08-22
+ORD0144,Dewi,Semarang,Mie Ayam,Makanan,1,18000,18000,2023-09-25
+ORD0145,Joko,Yogyakarta,Nasi Goreng,Makanan,4,25000,100000,2023-11-30
+ORD0146,Oki,Palembang,Pudding Coklat,Dessert,4,20000,80000,2024-03-06
+ORD0147,Kiki,Medan,Sate Ayam,Makanan,4,27000,108000,2025-12-26
+ORD0148,Putri,Yogyakarta,Sate Ayam,Makanan,5,27000,135000,2025-07-18
+ORD0149,Putri,Palembang,Jus Alpukat,Minuman,4,15000,60000,2023-09-16
+ORD0150,Dewi,Semarang,Mie Ayam,Makanan,3,18000,54000,2024-03-09
+ORD0151,Gilang,Makassar,Teh Manis,Minuman,3,8000,24000,2024-03-24
+ORD0152,Joko,Palembang,Donat,Snack,5,10000,50000,2025-01-14
+ORD0153,Oki,Makassar,Teh Manis,Minuman,3,8000,24000,2024-03-20
+ORD0154,Mira,Jakarta,Bakso,Makanan,4,22000,88000,2023-03-09
+ORD0155,Eka,Balikpapan,Teh Manis,Minuman,2,8000,16000,2023-09-07
+ORD0156,Andi,Yogyakarta,Jus Alpukat,Minuman,5,15000,75000,2024-06-13
+ORD0157,Rudi,Makassar,Jus Alpukat,Minuman,3,15000,45000,2023-02-17
+ORD0158,Hana,Palembang,Es Krim,Dessert,3,18000,54000,2023-12-14
+ORD0159,Fani,Makassar,Mie Ayam,Makanan,3,18000,54000,2024-08-30
+ORD0160,Nanda,Balikpapan,Donat,Snack,1,10000,10000,2023-10-26
+ORD0161,Nanda,Bandung,Nasi Goreng,Makanan,1,25000,25000,2023-03-05
+ORD0162,Hana,Medan,Pudding Coklat,Dessert,2,20000,40000,2025-01-07
+ORD0163,Indra,Surabaya,Kopi Hitam,Minuman,1,12000,12000,2023-07-18
+ORD0164,Vina,Makassar,Es Krim,Dessert,3,18000,54000,2023-07-23
+ORD0165,Joko,Bandung,Kopi Hitam,Minuman,1,12000,12000,2025-06-26
+ORD0166,Rudi,Semarang,Roti Bakar,Snack,3,17000,51000,2024-04-22
+ORD0167,Lina,Denpasar,Donat,Snack,1,10000,10000,2024-10-30
+ORD0168,Andi,Yogyakarta,Roti Bakar,Snack,2,17000,34000,2023-01-17
+ORD0169,Mira,Semarang,Es Krim,Dessert,2,18000,36000,2024-05-02
+ORD0170,Putri,Yogyakarta,Air Mineral,Minuman,3,5000,15000,2025-10-24
+ORD0171,Tono,Balikpapan,Pudding Coklat,Dessert,5,20000,100000,2023-06-11
+ORD0172,Fani,Balikpapan,Jus Alpukat,Minuman,4,15000,60000,2025-12-18
+ORD0173,Oki,Yogyakarta,Pudding Coklat,Dessert,2,20000,40000,2024-04-10
+ORD0174,Mira,Semarang,Mie Ayam,Makanan,5,18000,90000,2025-12-01
+ORD0175,Gilang,Balikpapan,Es Krim,Dessert,3,18000,54000,2023-11-22
+ORD0176,Dewi,Medan,Roti Bakar,Snack,5,17000,85000,2025-03-27
+ORD0177,Eka,Medan,Sate Ayam,Makanan,3,27000,81000,2024-07-15
+ORD0178,Sinta,Palembang,Sate Ayam,Makanan,4,27000,108000,2023-06-14
+ORD0179,Tono,Jakarta,Bakso,Makanan,1,22000,22000,2025-07-30
+ORD0180,Nanda,Palembang,Air Mineral,Minuman,2,5000,10000,2024-06-08
+ORD0181,Kiki,Yogyakarta,Teh Manis,Minuman,1,8000,8000,2023-12-24
+ORD0182,Gilang,Surabaya,Pudding Coklat,Dessert,3,20000,60000,2025-05-02
+ORD0183,Nanda,Bandung,Ayam Geprek,Makanan,2,20000,40000,2025-10-09
+ORD0184,Sinta,Yogyakarta,Nasi Goreng,Makanan,5,25000,125000,2024-12-07
+ORD0185,Sinta,Medan,Mie Ayam,Makanan,3,18000,54000,2024-12-12
+ORD0186,Tono,Yogyakarta,Keripik Kentang,Snack,3,15000,45000,2025-08-08
+ORD0187,Mira,Jakarta,Bakso,Makanan,5,22000,110000,2023-06-22
+ORD0188,Mira,Medan,Donat,Snack,3,10000,30000,2023-01-28
+ORD0189,Oki,Makassar,Keripik Kentang,Snack,4,15000,60000,2024-06-30
+ORD0190,Lina,Denpasar,Kopi Hitam,Minuman,3,12000,36000,2024-03-28
+ORD0191,Tono,Yogyakarta,Teh Manis,Minuman,3,8000,24000,2024-10-14
+ORD0192,Mira,Yogyakarta,Ayam Geprek,Makanan,5,20000,100000,2023-10-19
+ORD0193,Gilang,Palembang,Es Jeruk,Minuman,4,10000,40000,2024-07-07
+ORD0194,Kiki,Surabaya,Nasi Goreng,Makanan,4,25000,100000,2025-02-19
+ORD0195,Tono,Balikpapan,Jus Alpukat,Minuman,4,15000,60000,2023-06-01
+ORD0196,Rudi,Denpasar,Ayam Geprek,Makanan,4,20000,80000,2023-04-14
+ORD0197,Budi,Yogyakarta,Nasi Goreng,Makanan,3,25000,75000,2024-10-06
+ORD0198,Lina,Yogyakarta,Ayam Geprek,Makanan,1,20000,20000,2023-05-22
+ORD0199,Joko,Denpasar,Bakso,Makanan,1,22000,22000,2024-11-06
+ORD0200,Joko,Palembang,Mie Ayam,Makanan,2,18000,36000,2024-02-07
+ORD0201,Tono,Denpasar,Pudding Coklat,Dessert,1,20000,20000,2025-06-19
+ORD0202,Oki,Makassar,Jus Alpukat,Minuman,4,15000,60000,2023-08-08
+ORD0203,Dewi,Surabaya,Teh Manis,Minuman,5,8000,40000,2023-12-18
+ORD0204,Budi,Denpasar,Jus Alpukat,Minuman,1,15000,15000,2024-07-30
+ORD0205,Putri,Balikpapan,Donat,Snack,5,10000,50000,2023-07-06
+ORD0206,Mira,Semarang,Sate Ayam,Makanan,1,27000,27000,2024-06-21
+ORD0207,Mira,Medan,Ayam Geprek,Makanan,1,20000,20000,2023-09-02
+ORD0208,Putri,Denpasar,Sate Ayam,Makanan,2,27000,54000,2024-03-18
+ORD0209,Lina,Makassar,Ayam Geprek,Makanan,3,20000,60000,2024-04-18
+ORD0210,Kiki,Medan,Air Mineral,Minuman,5,5000,25000,2023-08-07
+ORD0211,Fani,Surabaya,Mie Ayam,Makanan,3,18000,54000,2023-08-01
+ORD0212,Hana,Yogyakarta,Teh Manis,Minuman,5,8000,40000,2023-07-28
+ORD0213,Putri,Surabaya,Kopi Hitam,Minuman,2,12000,24000,2024-06-28
+ORD0214,Lina,Bandung,Es Jeruk,Minuman,1,10000,10000,2025-10-24
+ORD0215,Putri,Medan,Pudding Coklat,Dessert,1,20000,20000,2025-06-07
+ORD0216,Eka,Medan,Jus Alpukat,Minuman,3,15000,45000,2024-05-03
+ORD0217,Nanda,Jakarta,Sate Ayam,Makanan,1,27000,27000,2024-12-21
+ORD0218,Hana,Semarang,Es Jeruk,Minuman,4,10000,40000,2024-01-27
+ORD0219,Lina,Palembang,Es Jeruk,Minuman,2,10000,20000,2024-07-19
+ORD0220,Putri,Balikpapan,Pudding Coklat,Dessert,1,20000,20000,2023-12-07
+ORD0221,Vina,Semarang,Nasi Goreng,Makanan,5,25000,125000,2025-01-01
+ORD0222,Citra,Makassar,Donat,Snack,3,10000,30000,2024-05-24
+ORD0223,Citra,Medan,Nasi Goreng,Makanan,4,25000,100000,2023-07-27
+ORD0224,Nanda,Surabaya,Es Jeruk,Minuman,3,10000,30000,2023-09-12
+ORD0225,Sinta,Denpasar,Es Krim,Dessert,1,18000,18000,2025-03-01
+ORD0226,Kiki,Denpasar,Teh Manis,Minuman,5,8000,40000,2025-12-22
+ORD0227,Hana,Yogyakarta,Roti Bakar,Snack,3,17000,51000,2025-10-08
+ORD0228,Lina,Makassar,Jus Alpukat,Minuman,1,15000,15000,2023-06-10
+ORD0229,Andi,Jakarta,Air Mineral,Minuman,4,5000,20000,2023-07-06
+ORD0230,Dewi,Jakarta,Ayam Geprek,Makanan,5,20000,100000,2023-11-12
+ORD0231,Gilang,Surabaya,Sate Ayam,Makanan,5,27000,135000,2023-04-25
+ORD0232,Eka,Semarang,Es Krim,Dessert,3,18000,54000,2025-11-26
+ORD0233,Lina,Semarang,Teh Manis,Minuman,2,8000,16000,2025-03-03
+ORD0234,Kiki,Jakarta,Pudding Coklat,Dessert,4,20000,80000,2025-09-17
+ORD0235,Lina,Denpasar,Nasi Goreng,Makanan,3,25000,75000,2025-10-19
+ORD0236,Joko,Denpasar,Kopi Hitam,Minuman,5,12000,60000,2023-12-18
+ORD0237,Sinta,Medan,Kopi Hitam,Minuman,3,12000,36000,2023-07-23
+ORD0238,Indra,Semarang,Teh Manis,Minuman,2,8000,16000,2023-08-11
+ORD0239,Oki,Yogyakarta,Donat,Snack,2,10000,20000,2023-09-03
+ORD0240,Budi,Palembang,Donat,Snack,1,10000,10000,2023-04-02
+ORD0241,Eka,Medan,Ayam Geprek,Makanan,3,20000,60000,2023-01-11
+ORD0242,Oki,Medan,Teh Manis,Minuman,3,8000,24000,2024-03-31
+ORD0243,Lina,Makassar,Jus Alpukat,Minuman,1,15000,15000,2024-09-22
+ORD0244,Lina,Jakarta,Ayam Geprek,Makanan,2,20000,40000,2023-07-20
+ORD0245,Kiki,Balikpapan,Ayam Geprek,Makanan,2,20000,40000,2025-05-02
+ORD0246,Hana,Medan,Teh Manis,Minuman,1,8000,8000,2023-04-29
+ORD0247,Gilang,Jakarta,Bakso,Makanan,4,22000,88000,2024-01-01
+ORD0248,Eka,Palembang,Keripik Kentang,Snack,2,15000,30000,2025-10-27
+ORD0249,Lina,Makassar,Keripik Kentang,Snack,4,15000,60000,2023-05-22
+ORD0250,Andi,Denpasar,Keripik Kentang,Snack,4,15000,60000,2024-06-01
+ORD0251,Lina,Medan,Keripik Kentang,Snack,2,15000,30000,2023-10-07
+ORD0252,Putri,Balikpapan,Bakso,Makanan,5,22000,110000,2025-04-23
+ORD0253,Joko,Palembang,Teh Manis,Minuman,2,8000,16000,2025-11-28
+ORD0254,Gilang,Jakarta,Roti Bakar,Snack,5,17000,85000,2023-10-20
+ORD0255,Lina,Medan,Sate Ayam,Makanan,4,27000,108000,2024-01-07
+ORD0256,Nanda,Balikpapan,Ayam Geprek,Makanan,5,20000,100000,2024-09-01
+ORD0257,Nanda,Yogyakarta,Sate Ayam,Makanan,3,27000,81000,2025-04-12
+ORD0258,Citra,Balikpapan,Jus Alpukat,Minuman,3,15000,45000,2024-07-09
+ORD0259,Dewi,Palembang,Pudding Coklat,Dessert,1,20000,20000,2025-10-29
+ORD0260,Citra,Palembang,Ayam Geprek,Makanan,3,20000,60000,2023-12-09
+ORD0261,Dewi,Yogyakarta,Jus Alpukat,Minuman,2,15000,30000,2024-08-19
+ORD0262,Gilang,Balikpapan,Keripik Kentang,Snack,1,15000,15000,2023-03-12
+ORD0263,Hana,Yogyakarta,Nasi Goreng,Makanan,1,25000,25000,2023-07-09
+ORD0264,Lina,Surabaya,Kopi Hitam,Minuman,3,12000,36000,2023-05-10
+ORD0265,Joko,Balikpapan,Nasi Goreng,Makanan,3,25000,75000,2025-02-03
+ORD0266,Joko,Medan,Roti Bakar,Snack,3,17000,51000,2025-09-29
+ORD0267,Mira,Denpasar,Air Mineral,Minuman,5,5000,25000,2025-10-29
+ORD0268,Andi,Semarang,Keripik Kentang,Snack,3,15000,45000,2024-10-28
+ORD0269,Citra,Semarang,Pudding Coklat,Dessert,2,20000,40000,2023-11-25
+ORD0270,Joko,Balikpapan,Es Krim,Dessert,3,18000,54000,2023-10-18
+ORD0271,Indra,Balikpapan,Sate Ayam,Makanan,2,27000,54000,2023-05-15
+ORD0272,Tono,Balikpapan,Mie Ayam,Makanan,3,18000,54000,2024-04-09
+ORD0273,Citra,Bandung,Mie Ayam,Makanan,3,18000,54000,2023-12-12
+ORD0274,Joko,Surabaya,Es Krim,Dessert,2,18000,36000,2024-05-26
+ORD0275,Lina,Makassar,Mie Ayam,Makanan,1,18000,18000,2023-06-04
+ORD0276,Vina,Jakarta,Mie Ayam,Makanan,2,18000,36000,2023-03-13
+ORD0277,Budi,Jakarta,Es Jeruk,Minuman,4,10000,40000,2025-05-06
+ORD0278,Indra,Makassar,Pudding Coklat,Dessert,3,20000,60000,2025-02-01
+ORD0279,Oki,Surabaya,Es Jeruk,Minuman,5,10000,50000,2025-04-02
+ORD0280,Eka,Bandung,Teh Manis,Minuman,5,8000,40000,2025-11-11
+ORD0281,Dewi,Jakarta,Air Mineral,Minuman,2,5000,10000,2025-10-18
+ORD0282,Sinta,Palembang,Bakso,Makanan,3,22000,66000,2025-10-03
+ORD0283,Budi,Semarang,Mie Ayam,Makanan,4,18000,72000,2023-09-11
+ORD0284,Hana,Palembang,Kopi Hitam,Minuman,2,12000,24000,2025-07-29
+ORD0285,Kiki,Surabaya,Air Mineral,Minuman,2,5000,10000,2024-01-02
+ORD0286,Lina,Yogyakarta,Roti Bakar,Snack,3,17000,51000,2024-12-13
+ORD0287,Budi,Bandung,Air Mineral,Minuman,1,5000,5000,2025-01-27
+ORD0288,Budi,Palembang,Es Jeruk,Minuman,3,10000,30000,2025-08-24
+ORD0289,Mira,Bandung,Pudding Coklat,Dessert,3,20000,60000,2024-02-12
+ORD0290,Budi,Makassar,Bakso,Makanan,4,22000,88000,2023-07-05
+ORD0291,Tono,Makassar,Jus Alpukat,Minuman,1,15000,15000,2023-02-07
+ORD0292,Oki,Balikpapan,Pudding Coklat,Dessert,3,20000,60000,2024-02-23
+ORD0293,Tono,Makassar,Keripik Kentang,Snack,4,15000,60000,2025-08-08
+ORD0294,Lina,Surabaya,Teh Manis,Minuman,1,8000,8000,2025-07-31
+ORD0295,Fani,Jakarta,Mie Ayam,Makanan,5,18000,90000,2025-08-31
+ORD0296,Nanda,Jakarta,Mie Ayam,Makanan,4,18000,72000,2023-11-12
+ORD0297,Sinta,Denpasar,Teh Manis,Minuman,4,8000,32000,2024-11-15
+ORD0298,Citra,Makassar,Jus Alpukat,Minuman,5,15000,75000,2025-06-17
+ORD0299,Rudi,Jakarta,Sate Ayam,Makanan,5,27000,135000,2024-08-21
+ORD0300,Fani,Balikpapan,Kopi Hitam,Minuman,2,12000,24000,2024-03-04
+ORD0301,Indra,Yogyakarta,Es Krim,Dessert,5,18000,90000,2024-10-07
+ORD0302,Rudi,Balikpapan,Donat,Snack,1,10000,10000,2025-03-01
+ORD0303,Kiki,Semarang,Keripik Kentang,Snack,2,15000,30000,2024-08-07
+ORD0304,Fani,Medan,Air Mineral,Minuman,4,5000,20000,2023-11-01
+ORD0305,Sinta,Makassar,Roti Bakar,Snack,1,17000,17000,2023-03-05
+ORD0306,Fani,Semarang,Kopi Hitam,Minuman,4,12000,48000,2023-03-31
+ORD0307,Andi,Makassar,Pudding Coklat,Dessert,2,20000,40000,2025-11-18
+ORD0308,Sinta,Bandung,Jus Alpukat,Minuman,4,15000,60000,2024-08-23
+ORD0309,Andi,Denpasar,Mie Ayam,Makanan,5,18000,90000,2024-07-20
+ORD0310,Rudi,Denpasar,Kopi Hitam,Minuman,4,12000,48000,2023-08-26
+ORD0311,Sinta,Jakarta,Es Jeruk,Minuman,2,10000,20000,2024-11-23
+ORD0312,Joko,Surabaya,Bakso,Makanan,3,22000,66000,2025-07-15
+ORD0313,Lina,Balikpapan,Air Mineral,Minuman,5,5000,25000,2025-12-29
+ORD0314,Gilang,Medan,Sate Ayam,Makanan,4,27000,108000,2024-11-17
+ORD0315,Fani,Balikpapan,Es Jeruk,Minuman,1,10000,10000,2025-06-14
+ORD0316,Putri,Semarang,Jus Alpukat,Minuman,2,15000,30000,2025-02-18
+ORD0317,Budi,Yogyakarta,Ayam Geprek,Makanan,4,20000,80000,2025-12-12
+ORD0318,Sinta,Denpasar,Sate Ayam,Makanan,1,27000,27000,2025-01-26
+ORD0319,Gilang,Surabaya,Bakso,Makanan,2,22000,44000,2024-02-15
+ORD0320,Oki,Denpasar,Bakso,Makanan,1,22000,22000,2024-05-16
+ORD0321,Eka,Surabaya,Jus Alpukat,Minuman,3,15000,45000,2023-09-05
+ORD0322,Eka,Surabaya,Nasi Goreng,Makanan,3,25000,75000,2025-08-24
+ORD0323,Eka,Semarang,Bakso,Makanan,2,22000,44000,2025-03-01
+ORD0324,Joko,Makassar,Pudding Coklat,Dessert,4,20000,80000,2024-10-16
+ORD0325,Nanda,Jakarta,Sate Ayam,Makanan,5,27000,135000,2023-09-27
+ORD0326,Sinta,Yogyakarta,Kopi Hitam,Minuman,2,12000,24000,2025-04-22
+ORD0327,Oki,Medan,Air Mineral,Minuman,2,5000,10000,2024-03-13
+ORD0328,Joko,Balikpapan,Teh Manis,Minuman,2,8000,16000,2023-11-04
+ORD0329,Hana,Balikpapan,Roti Bakar,Snack,5,17000,85000,2025-04-04
+ORD0330,Sinta,Jakarta,Air Mineral,Minuman,2,5000,10000,2024-04-11
+ORD0331,Lina,Semarang,Air Mineral,Minuman,1,5000,5000,2024-09-01
+ORD0332,Kiki,Surabaya,Bakso,Makanan,4,22000,88000,2025-01-08
+ORD0333,Vina,Bandung,Kopi Hitam,Minuman,5,12000,60000,2025-02-02
+ORD0334,Tono,Balikpapan,Pudding Coklat,Dessert,4,20000,80000,2024-11-29
+ORD0335,Oki,Palembang,Jus Alpukat,Minuman,3,15000,45000,2024-04-22
+ORD0336,Rudi,Palembang,Keripik Kentang,Snack,3,15000,45000,2023-06-08
+ORD0337,Citra,Jakarta,Donat,Snack,2,10000,20000,2024-11-13
+ORD0338,Sinta,Surabaya,Pudding Coklat,Dessert,1,20000,20000,2023-02-10
+ORD0339,Vina,Surabaya,Teh Manis,Minuman,1,8000,8000,2023-11-01
+ORD0340,Gilang,Yogyakarta,Roti Bakar,Snack,4,17000,68000,2025-01-08
+ORD0341,Andi,Medan,Es Jeruk,Minuman,2,10000,20000,2025-03-22
+ORD0342,Budi,Palembang,Donat,Snack,2,10000,20000,2024-08-01
+ORD0343,Gilang,Medan,Pudding Coklat,Dessert,4,20000,80000,2025-09-03
+ORD0344,Kiki,Surabaya,Jus Alpukat,Minuman,3,15000,45000,2025-11-08
+ORD0345,Budi,Bandung,Nasi Goreng,Makanan,3,25000,75000,2025-02-23
+ORD0346,Mira,Denpasar,Sate Ayam,Makanan,1,27000,27000,2023-07-12
+ORD0347,Dewi,Palembang,Bakso,Makanan,5,22000,110000,2024-03-26
+ORD0348,Mira,Surabaya,Es Krim,Dessert,5,18000,90000,2023-09-17
+ORD0349,Kiki,Palembang,Es Jeruk,Minuman,5,10000,50000,2025-06-24
+ORD0350,Dewi,Palembang,Air Mineral,Minuman,5,5000,25000,2024-04-03
+ORD0351,Citra,Yogyakarta,Sate Ayam,Makanan,1,27000,27000,2023-01-11
+ORD0352,Dewi,Balikpapan,Mie Ayam,Makanan,4,18000,72000,2024-11-03
+ORD0353,Vina,Balikpapan,Donat,Snack,3,10000,30000,2025-05-08
+ORD0354,Indra,Semarang,Donat,Snack,4,10000,40000,2023-05-13
+ORD0355,Fani,Palembang,Sate Ayam,Makanan,4,27000,108000,2025-07-31
+ORD0356,Gilang,Bandung,Kopi Hitam,Minuman,5,12000,60000,2025-03-07
+ORD0357,Fani,Bandung,Keripik Kentang,Snack,5,15000,75000,2023-09-26
+ORD0358,Putri,Makassar,Air Mineral,Minuman,4,5000,20000,2025-04-13
+ORD0359,Indra,Jakarta,Roti Bakar,Snack,1,17000,17000,2025-12-22
+ORD0360,Citra,Makassar,Es Krim,Dessert,3,18000,54000,2025-09-11
+ORD0361,Andi,Balikpapan,Roti Bakar,Snack,4,17000,68000,2025-02-14
+ORD0362,Andi,Surabaya,Sate Ayam,Makanan,2,27000,54000,2023-02-02
+ORD0363,Oki,Makassar,Keripik Kentang,Snack,5,15000,75000,2025-04-20
+ORD0364,Citra,Surabaya,Kopi Hitam,Minuman,1,12000,12000,2025-11-15
+ORD0365,Eka,Surabaya,Keripik Kentang,Snack,5,15000,75000,2023-09-11
+ORD0366,Mira,Jakarta,Teh Manis,Minuman,1,8000,8000,2023-11-03
+ORD0367,Budi,Palembang,Nasi Goreng,Makanan,2,25000,50000,2024-06-28
+ORD0368,Tono,Jakarta,Jus Alpukat,Minuman,2,15000,30000,2025-02-22
+ORD0369,Sinta,Semarang,Keripik Kentang,Snack,1,15000,15000,2024-07-19
+ORD0370,Lina,Surabaya,Roti Bakar,Snack,3,17000,51000,2023-02-14
+ORD0371,Indra,Bandung,Kopi Hitam,Minuman,5,12000,60000,2025-02-21
+ORD0372,Nanda,Surabaya,Jus Alpukat,Minuman,2,15000,30000,2025-10-30
+ORD0373,Andi,Bandung,Es Jeruk,Minuman,4,10000,40000,2025-12-24
+ORD0374,Oki,Medan,Ayam Geprek,Makanan,5,20000,100000,2024-01-25
+ORD0375,Eka,Denpasar,Donat,Snack,5,10000,50000,2024-03-10
+ORD0376,Fani,Jakarta,Keripik Kentang,Snack,2,15000,30000,2023-08-18
+ORD0377,Citra,Bandung,Kopi Hitam,Minuman,3,12000,36000,2024-11-22
+ORD0378,Dewi,Semarang,Mie Ayam,Makanan,1,18000,18000,2023-11-02
+ORD0379,Andi,Palembang,Donat,Snack,2,10000,20000,2024-10-05
+ORD0380,Sinta,Semarang,Mie Ayam,Makanan,2,18000,36000,2023-06-30
+ORD0381,Rudi,Jakarta,Roti Bakar,Snack,3,17000,51000,2024-10-01
+ORD0382,Hana,Jakarta,Roti Bakar,Snack,4,17000,68000,2025-01-26
+ORD0383,Rudi,Yogyakarta,Es Krim,Dessert,5,18000,90000,2024-07-01
+ORD0384,Budi,Denpasar,Kopi Hitam,Minuman,5,12000,60000,2024-12-08
+ORD0385,Hana,Surabaya,Air Mineral,Minuman,3,5000,15000,2023-06-11
+ORD0386,Andi,Yogyakarta,Es Jeruk,Minuman,4,10000,40000,2023-06-28
+ORD0387,Joko,Semarang,Roti Bakar,Snack,3,17000,51000,2025-01-28
+ORD0388,Indra,Balikpapan,Teh Manis,Minuman,4,8000,32000,2024-02-07
+ORD0389,Nanda,Bandung,Ayam Geprek,Makanan,3,20000,60000,2025-11-05
+ORD0390,Mira,Semarang,Air Mineral,Minuman,2,5000,10000,2024-11-23
+ORD0391,Kiki,Makassar,Jus Alpukat,Minuman,5,15000,75000,2023-05-20
+ORD0392,Rudi,Balikpapan,Es Krim,Dessert,1,18000,18000,2025-09-01
+ORD0393,Joko,Medan,Teh Manis,Minuman,1,8000,8000,2025-05-06
+ORD0394,Tono,Makassar,Keripik Kentang,Snack,1,15000,15000,2023-10-28
+ORD0395,Hana,Denpasar,Sate Ayam,Makanan,4,27000,108000,2024-01-27
+ORD0396,Sinta,Balikpapan,Bakso,Makanan,2,22000,44000,2023-03-04
+ORD0397,Andi,Jakarta,Teh Manis,Minuman,5,8000,40000,2023-12-09
+ORD0398,Citra,Semarang,Air Mineral,Minuman,3,5000,15000,2023-07-01
+ORD0399,Budi,Yogyakarta,Bakso,Makanan,3,22000,66000,2024-02-18
+ORD0400,Rudi,Semarang,Jus Alpukat,Minuman,2,15000,30000,2025-11-13
+ORD0401,Andi,Medan,Teh Manis,Minuman,5,8000,40000,2024-11-14
+ORD0402,Mira,Surabaya,Keripik Kentang,Snack,5,15000,75000,2025-01-14
+ORD0403,Andi,Jakarta,Es Krim,Dessert,2,18000,36000,2024-04-23
+ORD0404,Lina,Jakarta,Donat,Snack,3,10000,30000,2025-06-29
+ORD0405,Andi,Medan,Air Mineral,Minuman,4,5000,20000,2024-08-16
+ORD0406,Gilang,Balikpapan,Sate Ayam,Makanan,5,27000,135000,2023-12-01
+ORD0407,Kiki,Medan,Pudding Coklat,Dessert,5,20000,100000,2023-08-04
+ORD0408,Joko,Medan,Air Mineral,Minuman,2,5000,10000,2025-12-29
+ORD0409,Joko,Palembang,Teh Manis,Minuman,2,8000,16000,2025-01-15
+ORD0410,Andi,Denpasar,Kopi Hitam,Minuman,4,12000,48000,2023-11-10
+ORD0411,Joko,Semarang,Nasi Goreng,Makanan,1,25000,25000,2025-01-12
+ORD0412,Citra,Balikpapan,Es Krim,Dessert,5,18000,90000,2025-11-22
+ORD0413,Dewi,Jakarta,Es Krim,Dessert,1,18000,18000,2023-03-06
+ORD0414,Tono,Medan,Es Jeruk,Minuman,3,10000,30000,2025-11-05
+ORD0415,Vina,Yogyakarta,Roti Bakar,Snack,4,17000,68000,2024-07-07
+ORD0416,Dewi,Yogyakarta,Bakso,Makanan,3,22000,66000,2024-06-11
+ORD0417,Oki,Denpasar,Keripik Kentang,Snack,1,15000,15000,2025-01-03
+ORD0418,Gilang,Surabaya,Teh Manis,Minuman,5,8000,40000,2024-05-23
+ORD0419,Tono,Denpasar,Mie Ayam,Makanan,5,18000,90000,2023-04-20
+ORD0420,Mira,Yogyakarta,Teh Manis,Minuman,2,8000,16000,2024-08-29
+ORD0421,Hana,Palembang,Kopi Hitam,Minuman,5,12000,60000,2025-02-07
+ORD0422,Kiki,Bandung,Keripik Kentang,Snack,3,15000,45000,2025-08-11
+ORD0423,Kiki,Makassar,Es Jeruk,Minuman,2,10000,20000,2025-01-25
+ORD0424,Kiki,Bandung,Keripik Kentang,Snack,4,15000,60000,2023-10-07
+ORD0425,Fani,Palembang,Air Mineral,Minuman,1,5000,5000,2023-09-08
+ORD0426,Joko,Surabaya,Ayam Geprek,Makanan,2,20000,40000,2023-05-31
+ORD0427,Citra,Jakarta,Sate Ayam,Makanan,2,27000,54000,2023-12-21
+ORD0428,Joko,Surabaya,Pudding Coklat,Dessert,5,20000,100000,2025-02-18
+ORD0429,Putri,Jakarta,Nasi Goreng,Makanan,3,25000,75000,2023-07-01
+ORD0430,Hana,Semarang,Air Mineral,Minuman,1,5000,5000,2023-05-18
+ORD0431,Eka,Yogyakarta,Nasi Goreng,Makanan,4,25000,100000,2025-02-19
+ORD0432,Sinta,Medan,Pudding Coklat,Dessert,4,20000,80000,2024-09-18
+ORD0433,Citra,Semarang,Ayam Geprek,Makanan,2,20000,40000,2025-07-27
+ORD0434,Mira,Makassar,Ayam Geprek,Makanan,4,20000,80000,2024-05-13
+ORD0435,Mira,Balikpapan,Donat,Snack,1,10000,10000,2023-01-09
+ORD0436,Sinta,Medan,Es Krim,Dessert,3,18000,54000,2023-10-30
+ORD0437,Dewi,Balikpapan,Keripik Kentang,Snack,4,15000,60000,2025-09-13
+ORD0438,Joko,Palembang,Air Mineral,Minuman,2,5000,10000,2023-10-30
+ORD0439,Putri,Jakarta,Mie Ayam,Makanan,3,18000,54000,2025-04-23
+ORD0440,Joko,Surabaya,Pudding Coklat,Dessert,3,20000,60000,2025-07-05
+ORD0441,Sinta,Semarang,Donat,Snack,1,10000,10000,2024-05-09
+ORD0442,Andi,Makassar,Teh Manis,Minuman,4,8000,32000,2024-08-06
+ORD0443,Rudi,Balikpapan,Nasi Goreng,Makanan,4,25000,100000,2025-06-28
+ORD0444,Tono,Balikpapan,Mie Ayam,Makanan,4,18000,72000,2025-02-18
+ORD0445,Indra,Makassar,Teh Manis,Minuman,4,8000,32000,2025-04-12
+ORD0446,Sinta,Semarang,Roti Bakar,Snack,4,17000,68000,2024-05-29
+ORD0447,Putri,Makassar,Air Mineral,Minuman,2,5000,10000,2024-04-12
+ORD0448,Budi,Denpasar,Roti Bakar,Snack,5,17000,85000,2023-12-14
+ORD0449,Budi,Surabaya,Keripik Kentang,Snack,4,15000,60000,2025-09-26
+ORD0450,Citra,Bandung,Jus Alpukat,Minuman,5,15000,75000,2024-03-28
+ORD0451,Tono,Denpasar,Sate Ayam,Makanan,5,27000,135000,2025-05-12
+ORD0452,Citra,Medan,Ayam Geprek,Makanan,1,20000,20000,2023-04-04
+ORD0453,Vina,Makassar,Mie Ayam,Makanan,4,18000,72000,2023-05-12
+ORD0454,Mira,Jakarta,Keripik Kentang,Snack,3,15000,45000,2024-07-13
+ORD0455,Indra,Medan,Mie Ayam,Makanan,2,18000,36000,2024-01-18
+ORD0456,Rudi,Bandung,Kopi Hitam,Minuman,5,12000,60000,2023-10-08
+ORD0457,Nanda,Semarang,Es Krim,Dessert,3,18000,54000,2023-03-02
+ORD0458,Eka,Medan,Air Mineral,Minuman,5,5000,25000,2023-08-27
+ORD0459,Budi,Yogyakarta,Air Mineral,Minuman,4,5000,20000,2024-12-26
+ORD0460,Sinta,Bandung,Mie Ayam,Makanan,1,18000,18000,2024-05-24
+ORD0461,Sinta,Palembang,Pudding Coklat,Dessert,1,20000,20000,2024-10-24
+ORD0462,Nanda,Makassar,Roti Bakar,Snack,4,17000,68000,2024-01-29
+ORD0463,Andi,Jakarta,Ayam Geprek,Makanan,3,20000,60000,2023-02-18
+ORD0464,Rudi,Denpasar,Air Mineral,Minuman,1,5000,5000,2025-01-16
+ORD0465,Lina,Jakarta,Mie Ayam,Makanan,2,18000,36000,2025-05-14
+ORD0466,Citra,Surabaya,Donat,Snack,3,10000,30000,2024-03-06
+ORD0467,Rudi,Balikpapan,Sate Ayam,Makanan,1,27000,27000,2023-12-01
+ORD0468,Lina,Makassar,Pudding Coklat,Dessert,3,20000,60000,2024-05-07
+ORD0469,Citra,Yogyakarta,Jus Alpukat,Minuman,3,15000,45000,2023-03-23
+ORD0470,Mira,Makassar,Mie Ayam,Makanan,2,18000,36000,2023-12-21
+ORD0471,Dewi,Yogyakarta,Kopi Hitam,Minuman,2,12000,24000,2023-06-10
+ORD0472,Mira,Medan,Kopi Hitam,Minuman,5,12000,60000,2024-10-20
+ORD0473,Indra,Palembang,Bakso,Makanan,3,22000,66000,2024-01-22
+ORD0474,Citra,Denpasar,Keripik Kentang,Snack,2,15000,30000,2023-05-13
+ORD0475,Sinta,Yogyakarta,Pudding Coklat,Dessert,1,20000,20000,2023-04-29
+ORD0476,Hana,Palembang,Roti Bakar,Snack,3,17000,51000,2025-12-12
+ORD0477,Eka,Makassar,Roti Bakar,Snack,4,17000,68000,2024-05-12
+ORD0478,Dewi,Surabaya,Es Jeruk,Minuman,4,10000,40000,2025-11-28
+ORD0479,Indra,Palembang,Nasi Goreng,Makanan,4,25000,100000,2024-11-26
+ORD0480,Hana,Medan,Roti Bakar,Snack,5,17000,85000,2023-04-15
+ORD0481,Indra,Makassar,Roti Bakar,Snack,3,17000,51000,2023-05-24
+ORD0482,Eka,Makassar,Donat,Snack,4,10000,40000,2024-09-16
+ORD0483,Oki,Makassar,Teh Manis,Minuman,1,8000,8000,2024-07-01
+ORD0484,Hana,Bandung,Pudding Coklat,Dessert,3,20000,60000,2024-04-08
+ORD0485,Joko,Denpasar,Roti Bakar,Snack,3,17000,51000,2025-07-05
+ORD0486,Fani,Semarang,Donat,Snack,5,10000,50000,2024-02-11
+ORD0487,Vina,Makassar,Ayam Geprek,Makanan,3,20000,60000,2025-08-04
+ORD0488,Eka,Jakarta,Bakso,Makanan,1,22000,22000,2024-09-27
+ORD0489,Dewi,Yogyakarta,Pudding Coklat,Dessert,1,20000,20000,2023-11-30
+ORD0490,Gilang,Palembang,Keripik Kentang,Snack,2,15000,30000,2025-11-28
+ORD0491,Rudi,Semarang,Roti Bakar,Snack,5,17000,85000,2025-05-29
+ORD0492,Lina,Medan,Air Mineral,Minuman,5,5000,25000,2023-04-09
+ORD0493,Indra,Surabaya,Ayam Geprek,Makanan,3,20000,60000,2023-11-13
+ORD0494,Mira,Makassar,Mie Ayam,Makanan,2,18000,36000,2024-09-14
+ORD0495,Andi,Balikpapan,Teh Manis,Minuman,4,8000,32000,2024-05-23
+ORD0496,Fani,Palembang,Ayam Geprek,Makanan,3,20000,60000,2023-08-17
+ORD0497,Rudi,Balikpapan,Pudding Coklat,Dessert,3,20000,60000,2025-06-11
+ORD0498,Rudi,Medan,Ayam Geprek,Makanan,2,20000,40000,2023-02-11
+ORD0499,Rudi,Medan,Jus Alpukat,Minuman,3,15000,45000,2024-01-09
+ORD0500,Nanda,Surabaya,Bakso,Makanan,4,22000,88000,2024-12-20
