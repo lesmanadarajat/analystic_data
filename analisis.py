@@ -70,3 +70,4 @@ axs[1, 1].legend(title="Kategori Produk", bbox_to_anchor=(1.05, 1), loc='upper l
 
 plt.tight_layout(rect=[0, 0, 1, 0.96])
 plt.show()
+
