@@ -1,0 +1,13 @@
+ID,Name,Age,Gender,Height_cm,Weight_kg,Blood_Pressure,Heart_Rate,Diagnosis,Medication,Visit_Date
+1,Andi,29,M,170,68,120/80,72,Sehat,-,2025-10-01
+3,Budi,34,M,175,80,130/85,78,Hipertensi ringan,Amlodipine,2025-09-28
+3,Budi,34,M,175,80,130/85,78,Hipertensi ringan,Amlodipine,2025-09-28
+4,Citra,41,F,162,70,125/80,76,Diabetes tipe 2,Metformin,2025-08-15
+5,Dewi,22,F,158,52,110/70,68,Sehat,-,2025-10-03
+6,Eko,55,M,168,74,140/90,82,Hipertensi,Lisinopril,2025-07-21
+7,Eko,55,M,168,74,140/90,82,Hipertensi,Lisinopril,2025-07-21
+8,Fajar,30,M,180,85,128/84,75,Kolesterol tinggi,Atorvastatin,2025-06-11
+9,Gina,37,F,165,60,118/76,70,Sehat,NaN,2025-10-05
+10,Hadi,45,M,172,78,135/88,80,Prediabetes,Metformin,2025-05-30
+11,Hadi,45,M,172,78,135/88,80,Prediabetes,Metformin,2025-05-30
+12,Intan,19,F,160,55,112/72,66,Sehat,-,2025-09-10
